@@ -1,0 +1,78 @@
+{
+margin:0;
+padding:0;
+font-size:10px
+box-sizing:border-box;
+}
+    .header
+    {
+        background-color:pink;
+        color:rgb(192, 255, 236);
+        text-align:Center;
+        padding:auto;
+        font size:100px;
+        position:visible;
+}
+.header content h1 
+{
+
+    font size:2.5rem;
+}
+.profile picture {
+    width:100px;
+    height: 100px;
+    border-radius:50%;
+    object-fit:cover;
+    position:absolute;
+    top:75px;
+    left:100px;
+
+}
+nav {
+    background-color:lightgrey;
+    color:red;
+    text-align:left 100*100;
+}
+nav ul 
+    list-style-type:none;
+     padding:0px;
+
+}
+nav ul li{
+    display:inline;
+    margin:20px;
+}
+nav ul li a
+{
+    text-decoration:double;
+    color:blueviolet;
+
+}
+.section-content
+{
+    background-color:aqua;
+    padding:auto;
+    margin-top:center;
+    border-radius:20px;
+    box-shadow:010px rgba(0,0,0.1);
+    background image:url(.background-https://images.unsplash.com/photo-1725714355442-4216013a29fd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background background-repeat:no repeat;
+    background size: cover;
+    color:pink
+}
+.download-button
+{
+background-color: rgb(255, 192, 192);
+color:blueviolet;
+
+}
+
+footer 
+{
+    text align:center;
+    padding:1rem,0;
+    background-color:orange;
+    color:
+
+
+}
